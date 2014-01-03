@@ -11,13 +11,70 @@
         Augusta Ada King, Countess of Lovelace (10 December 1815 – 27 November 1852), 
         born Augusta Ada Byron and now commonly known as Ada Lovelace, was an English 
         mathematician and writer chiefly known for her work on Charles Babbage\'s early 
-        mechanical general-purpose computer, the Analytical Engine
+        mechanical general-purpose computer, the Analytical Engine Her notes on the engine 
+        include what is recognised as the first algorithm intended to be carried out by a 
+        machine. Because of this, she is often described as the world\'s first computer 
+        programmer. Lovelace was born 10 December 1815 as the only legitimate child of 
+        the poet Lord Byron and his wife Anne Isabella Byron. All Byron\'s other children 
+        were born out of wedlock. Byron separated from his wife a month after Ada was 
+        born and left England forever four months later, eventually dying of disease in 
+        theGreek War of Independence when Ada was eight years old. Ada\'s mother remained 
+        bitter at Lord Byron and promoted Ada\'s interest in mathematics and logic in an 
+        effort to prevent her from developing what she saw as the insanity seen in her 
+        father, but Ada remained interested in him despite this (and was, upon her 
+        eventual death, buried next to him at her request).
+        
+        \n\nAda described her approach as \"poetical science\" and herself as an \"Analyst 
+        (&amp; Metaphysician)\". As a young adult, her mathematical talents led her to an 
+        ongoing working relationship and friendship with fellow British mathematician 
+        Charles Babbage, and in particular Babbage\'s work on the Analytical Engine. 
+        Between 1842 and 1843, she translated an article by Italian military engineer 
+        Luigi Menabrea on the engine, which she supplemented with an elaborate set of 
+        notes of her own, simply called Notes. These notes contain what many consider 
+        to be the first computer program—that is, an algorithm designed to be carried 
+        out by a machine. Lovelace\'s notes are important in the early history of computers. 
+        She also developed a vision on the capability of computers to go beyond mere 
+        calculating or number-crunching while others, including Babbage himself, focused 
+        only on those capabilities. Ada\'s mind-set of \"poetical science\" led her to ask 
+        basic questions about the Analytical Engine (as shown in her notes) examining 
+        how individuals and society relate to technology as a collaborative tool.
+        
+        \n\n*From http://en.wikipedia.org/wiki/Ada_Lovelace
+        
     </string>
      <string name="description_james_gosling">
-        Augusta Ada King, Countess of Lovelace (10 December 1815 – 27 November 1852), 
-        born Augusta Ada Byron and now commonly known as Ada Lovelace, was an English 
-        mathematician and writer chiefly known for her work on Charles Babbage\'s early 
-        mechanical general-purpose computer, the Analytical Engine
+       James Arthur Gosling, OC (born May 19, 1955) is a Canadian computer scientist, 
+       best known as the father of the Java programming language.
+       
+       \n\nIn 1977, Gosling received a Bachelor of Science in Computer Science from the 
+       University of Calgary. In 1983, he earned a Ph.D in Computer Science fromCarnegie 
+       Mellon University, supervised by Bob Sproull. While working towards his doctorate, 
+       he wrote a version of Emacs called Gosling Emacs(Gosmacs), and before joining Sun 
+       Microsystems he built a multi-processor version of Unix[7] while at Carnegie Mellon University, 
+       as well as several compilersand mail systems.
+       
+       \n\nBetween 1984 and 2010, Gosling was with Sun Microsystems. He is known as the father of the Java 
+       programming language.
+       
+       \n\nOn April 2, 2010, Gosling left Sun Microsystems which had recently been acquired by the Oracle 
+       Corporation. Regarding why he left, Gosling cited reductions in pay, status, and decision-making 
+       ability, change of role, and ethical challenges. He has since taken a very critical stance towards 
+       Oracle in interviews, noting that "During the integration meetings between Sun and Oracle, where 
+       we were being grilled about the patent situation between Sun and Google, we could see the Oracle 
+       lawyer's eyes sparkle." Later, during the Oracle vs. Google trial over Android, he clarified his 
+       position saying "Just because Sun didn't have patent suits in our genetic code doesn't mean we 
+       didn't feel wronged. While I have differences with Oracle, in this case they are in the right. 
+       Google totally slimed Sun. We were all really disturbed, even Jonathan [Schwarz]: he just decided 
+       to put on a happy face and tried to turn lemons into lemonade, which annoyed a lot of folks at Sun."
+       
+       \n\nOn March 28, 2011, James Gosling announced on his blog that he had been hired by Google. Five 
+       months later, he announced that he joined a startup called Liquid Robotics.
+       
+       \n\nGosling is listed as an advisor at the Scala company Typesafe Inc. and Strategic Advisor for Eucalyptus.
+       
+       \n\n*From http://en.wikipedia.org/wiki/James_Gosling
+       
+       
     </string>
 
 </resources>
